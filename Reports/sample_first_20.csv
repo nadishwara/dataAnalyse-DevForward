@@ -1,0 +1,21 @@
+﻿t1,negative,"Vineet, what you are trying to do is a terrible idea! If you ever find yourself having to engineer something as fundamental as that, take a step back and work out what else does it! I don't really believe in the whole spoon fed SO thing, but what mtwebster says is on the right track!"
+t2,positive,"'Course I do, corrected."
+t3,positive,"Excellent, happy to help! If you don't mind, can you accept my answer?"
+t6,negative,"@talnicolas I'm using it a few dozen times in my class. It's heavy to write, not easy to read and very painful to debug. I'm sorry, I didn't think the question was that subjective, maybe someone should move it to PROGRAMMERS!?"
+t7,neutral,I didn't select an answer because even though two of them helped neither of them is complete.
+t10,neutral,This is for Tomcat 5.5
+t11,neutral,"Paraphrasing Cypher, ""StateOf.Confusion is bliss"", so... Do all `MapCollection Items` have the same state? If so then have a single `ItemStatus` that every `Item` references. [`Application.Properties`](http://msdn.microsoft.com/en-us/library/system.windows.application.properties%28v=vs.110%29.aspx) may be a way to globally communicate visualness."
+t12,positive,Excellent! Thank you for your perseverence :)
+t14,positive,"Wow, I've just had a look at the Corona SDK. It looks excellent! A really intuitive way to build apps. Thanks for the tip!"
+t15,neutral,A few but they all seem proprietary.
+t17,negative,"To push it to Heroku, you'll have to add it to your repo. Why don't you want to commit it? It's recommended to commit Gemfile.lock in your repo (unless you're developing a gem): When developing an app, check in your Gemfile.lock, since you will use the bundler tool across all machines, and the precision enforced by bundler is extremely desirable for applications."
+t19,positive,@Thorbj�rn Ravn Andersen that's really great!
+t20,neutral,"I'm not sure if this is a case here but if you are really worried about the gc in this case and you'd like to better control behavior of your derived maps and thus their influence on the performance of the gc in my opinion you should take a look at the usage of different kind of references (strong, weak, soft, phantom) in java.Also remember that pre-optimization is a root of all evil especially in programming."
+t21,negative,"I don't see how this is possible, but I really, really hate to run my query an extra time just to get the record count so I can build a pager. When I say a ""pager"" I simply mean the common gizmo with a link for each 10 records for example."
+t23,neutral,Have added an answer
+t24,negative,"Yes, but it's tricky, since datetime parsing in SQL is a pain in the neck."
+t25,negative,"@njahnke: to me, it does not matter what they advise if they do not provide alternatives. I have been a happy user of qthttp thus far without worries, but yes, it is just a quick workaround as written."
+t26,negative,"@MaximilianB_ther I'm sorry to hear that... Maybe you can get in touch with the developers of BaronReplays and ask them to help you out? If not, I'm afraid I cannot help you much more! Regards, Rodit"
+t27,neutral,This question would now be more appropriate on SuperUser.
+t28,negative,"After looking at the answers below, I am very sad that this is an example of backwards progress for SSRS."
+t29,negative,"I installed Delphi 2009 Update 4 yesterday (very painful process ) Now, How can I make sure if it is properly updated? What is the build number shown in the IDE about box?"

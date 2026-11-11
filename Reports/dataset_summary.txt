@@ -1,0 +1,25 @@
+DevForward - Senti4SD dataset inspection (descriptive audit; NOT IP model evaluation)
+Source filename: train3098itemPOLARITY.csv
+Original repository: https://github.com/collab-uniba/Senti4SD
+Citation: Calefato et al. (2018), doi:10.1007/s10664-017-9546-9
+Parsed separator: ';' | Encoding: utf-8-sig
+Number of data rows: 3,096
+Number of columns: 3
+Column names: ['t1', 'negative', "Vineet, what you are trying to do is a terrible idea! If you ever find yourself having to engineer something as fundamental as that, take a step back and work out what else does it! I don't really believe in the whole spoon fed SO thing, but what mtwebster says is on the right track!"]
+Exact duplicate rows: 0
+Missing values per column:
+  t1: 0
+  negative: 0
+  Vineet, what you are trying to do is a terrible idea! If you ever find yourself having to engineer something as fundamental as that, take a step back and work out what else does it! I don't really believe in the whole spoon fed SO thing, but what mtwebster says is on the right track!: 0
+Blank-string values per column:
+  t1: 0
+  negative: 0
+  Vineet, what you are trying to do is a terrible idea! If you ever find yourself having to engineer something as fundamental as that, take a step back and work out what else does it! I don't really believe in the whole spoon fed SO thing, but what mtwebster says is on the right track!: 0
+Text column NOT automatically recognised; inspect columns manually.
+Label column NOT automatically recognised; inspect columns manually.
+
+IMPORTANT RESEARCH WARNING:
+Original sentiment labels are not validated impostor-phenomenon labels.
+Do NOT train an IP-related detector using those labels as ground truth.
+Do NOT change the original file. Inspect text relevance and plan separate human annotation.
+Respect the source permissions and privacy when sharing samples.

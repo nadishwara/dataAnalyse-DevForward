@@ -1,0 +1,52 @@
+
+DEVFORWARD - SENTI4SD PILOT SCREENING REPORT
+
+Generated: 2026-11-17T01:47:08
+
+=== DATASET INFORMATION ===
+Source: Senti4SD
+Original training records: 3097
+Pilot records: 150
+Unique IDs: 150
+Duplicate IDs: 0
+
+=== MODEL INFORMATION ===
+LLM_Model
+qwen2.5:latest    150
+
+=== PROMPT VERSION ===
+LLM_Prompt_Version
+v2_self_appraisal_screening_2026_11_10    150
+
+=== SCREENING DISTRIBUTION ===
+Screening_Decision
+Not_relevant    148
+Relevant          2
+
+=== IP PATTERN DISTRIBUTION ===
+Potential_IP_Pattern
+Absent     149
+Present      1
+
+=== PATTERN CATEGORIES ===
+Pattern_Category
+None                    149
+Fear_of_Incompetence      1
+
+=== SENTIMENT VS IP PATTERN ===
+Potential_IP_Pattern  Absent  Present
+Original_Sentiment                   
+negative                  46        1
+neutral                   52        0
+positive                  51        0
+
+=== HUMAN REVIEW STATUS ===
+Human_Review_Status
+PENDING    150
+
+=== PRELIMINARY CONCLUSION ===
+The automated pilot suggests that Senti4SD may have
+limited suitability for IP-related pattern detection.
+
+The annotations are preliminary LLM suggestions.
+Independent human validation is still required.

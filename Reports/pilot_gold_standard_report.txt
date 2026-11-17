@@ -1,0 +1,29 @@
+DEVFORWARD GOLD-STANDARD PILOT ANALYSIS REPORT (n=150)
+============================================================
+
+1. Original Sentiment vs. Human Screening Decision:
+Human_Final_Screening_Decision  Not_relevant  Relevant  All
+Original_Sentiment                                         
+negative                                  45         2   47
+neutral                                   52         0   52
+positive                                  51         0   51
+All                                      148         2  150
+
+2. Original Sentiment vs. Human IP Pattern:
+Human_Final_IP_Pattern  Absent  Present  All
+Original_Sentiment                          
+negative                    46        1   47
+neutral                     52        0   52
+positive                    51        0   51
+All                        149        1  150
+
+3. Word Count Summary:
+       Word_Count  Char_Count
+count      150.00      150.00
+mean        30.45      171.56
+std         27.69      155.27
+min          2.00       11.00
+25%          9.25       57.00
+50%         18.50      111.00
+75%         49.75      274.00
+max        116.00      797.00
